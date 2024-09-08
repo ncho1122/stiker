@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Home</title>
+        <link rel="stylesheet" href="style.www">
+    </head>
+    <body>
+        <header>
+            <h1>halo bayu</h1>
+            <nav>
+                <ul>          
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <section>
+                <h2></h2>
+                <p></p>
+                <p></p>
+                <img src="https://i.pinimg.com/736x/53/6c/70/536c70dacd58b665896c0e70e1b52d2a.jpg" alt="" width="300">
+                <img src="https://i.pinimg.com/564x/e0/87/43/e08743eab76d2fd2174349b6e7beb223.jpg" alt="" width="320">
+            </section>
+        </main>
+        <footer>
+            <p>&copy; omagaa</p>
+        </footer>
+        <script src="script.js"></script>
+    </body>
+    </html>
+    
